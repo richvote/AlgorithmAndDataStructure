@@ -25,3 +25,10 @@ if func(N, W, a):
     print("Yes")
 else:
     print("No")
+'''
+4 14
+3
+2
+6
+5
+'''
